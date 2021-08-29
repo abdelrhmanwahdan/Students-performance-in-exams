@@ -74,7 +74,7 @@ The aim of this project is to understand the various facts like economic, person
 
     4. K-Nearest neighbors.
 
-    5. Random forest
+    5. Random forest.
 
 6. **Evaluating the model**
 
