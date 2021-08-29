@@ -74,10 +74,10 @@ The aim of this project is to understand the various facts like economic, person
 
     4. K-Nearest neighbors.
 
-    5. Random forrest
+    5. Random forest
 
 5. **Evaluating the model**
 
 # Conclusion
 
-the random forrest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
+the random forest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
