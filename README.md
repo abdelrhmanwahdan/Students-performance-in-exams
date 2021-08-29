@@ -19,11 +19,13 @@ The aim of this project is to understand the various facts like economic, person
 
     1. How many students passed in Math exam ? 
 
+
     ![Math](images/math.png "math")
     ![Math2](images/math2.png "math2")
 
 
     2. How many studends passed in reading ? 
+
 
     ![Reading](images/reading.png "reading")
     ![Reading2](images/reading2.png "reading2")
@@ -31,17 +33,24 @@ The aim of this project is to understand the various facts like economic, person
 
     3. How many students passed writing ?
 
+
     ![Writing](images/writing.png "writing")
     ![Writing2](images/writing2.png "writing2")
 
+
     4. How many students passed in all the subjects ? 
+
 
     ![All](images/all.png "all")
     ![All2](images/all2.png "all2")
+    
+    
     5. What are the grades of the students ?
+
 
     ![Grades](images/grades.png "grades")
     ![Grades2](images/grades2.png "grades2")
+
 
 3. **Preprocessing the data.**
 
@@ -51,7 +60,7 @@ The aim of this project is to understand the various facts like economic, person
 
     3. One hot encoding for categorical columns.
 
-    4. Normalizing the continous columns.
+    4. Normalizing the continuous columns.
 
     5. Splitting the data.
 
