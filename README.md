@@ -11,11 +11,11 @@ The aim of this project is to understand the various facts like economic, person
 3. Effectiveness of test preparation course?
 
 # Contents
-0. **Importing the libraries and the data.**
+1. **Importing the libraries and the data.**
 
-1. **Understanding the data.**
+2. **Understanding the data.**
 
-2. **Data analysis and visualization.**
+3. **Data analysis and visualization.**
 
     1. How many students passed in Math exam ? 
 
@@ -52,7 +52,7 @@ The aim of this project is to understand the various facts like economic, person
     ![Grades2](images/grades2.png "grades2")
 
 
-3. **Preprocessing the data.**
+4. **Preprocessing the data.**
 
     1. Removing unnecessary columns.
 
@@ -64,7 +64,7 @@ The aim of this project is to understand the various facts like economic, person
 
     5. Splitting the data.
 
-4. **developing the machine learning models**
+5. **developing the machine learning models**
 
     1. Logistic regression.
 
@@ -76,7 +76,7 @@ The aim of this project is to understand the various facts like economic, person
 
     5. Random forest
 
-5. **Evaluating the model**
+6. **Evaluating the model**
 
 # Conclusion
 
