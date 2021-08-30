@@ -11,13 +11,14 @@ The aim of this project is to understand the various facts like economic, person
 3. Effectiveness of test preparation course?
 
 # Contents
-0. **Importing the libraries and the data.**
+1. **Importing the libraries and the data.**
 
-1. **Understanding the data.**
+2. **Understanding the data.**
 
-2. **Data analysis and visualization.**
+3. **Data analysis and visualization.**
 
     1. How many students passed in Math exam ? 
+
 
     ![Math](images/math.png "math")
     ![Math2](images/math2.png "math2")
@@ -25,25 +26,33 @@ The aim of this project is to understand the various facts like economic, person
 
     2. How many studends passed in reading ? 
 
+
     ![Reading](images/reading.png "reading")
     ![Reading2](images/reading2.png "reading2")
 
 
     3. How many students passed writing ?
 
+
     ![Writing](images/writing.png "writing")
     ![Writing2](images/writing2.png "writing2")
 
+
     4. How many students passed in all the subjects ? 
+
 
     ![All](images/all.png "all")
     ![All2](images/all2.png "all2")
+    
+    
     5. What are the grades of the students ?
+
 
     ![Grades](images/grades.png "grades")
     ![Grades2](images/grades2.png "grades2")
 
-3. **Preprocessing the data.**
+
+4. **Preprocessing the data.**
 
     1. Removing unnecessary columns.
 
@@ -51,11 +60,11 @@ The aim of this project is to understand the various facts like economic, person
 
     3. One hot encoding for categorical columns.
 
-    4. Normalizing the continous columns.
+    4. Normalizing the continuous columns.
 
     5. Splitting the data.
 
-4. **developing the machine learning models**
+5. **developing the machine learning models**
 
     1. Logistic regression.
 
@@ -65,10 +74,10 @@ The aim of this project is to understand the various facts like economic, person
 
     4. K-Nearest neighbors.
 
-    5. Random forrest
+    5. Random forest.
 
-5. **Evaluating the model**
+6. **Evaluating the model**
 
 # Conclusion
 
-the random forrest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
+the random forest model outperforms the other models in the prediction of the students grades with accuracy 91.5% .
