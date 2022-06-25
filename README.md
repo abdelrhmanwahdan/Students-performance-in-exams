@@ -3,7 +3,7 @@
 ![Exam](images/exam.jpg "exam")
 
 # Aim
-The aim of this project is to understand the various facts like economic, personal and social on the students performance.
+The aim of this project is to understand the various facts like economic, personal, and social on the student's performance.
 
 # Inferences would be :
 1. How to imporve the students performance in each test ?
