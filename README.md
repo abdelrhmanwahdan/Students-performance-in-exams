@@ -8,7 +8,7 @@ The aim of this project is to understand the various facts like economic, person
 # Inferences would be :
 1. How to imporve the students performance in each test ?
 2. What are the major factors influencing the test scores ?
-3. Effectiveness of test preparation course?
+3. What is the effect of test preparation on test scores??
 
 # Contents
 1. **Importing the libraries and the data.**
